@@ -1,0 +1,49 @@
+---------------------------------------------------------------
+ADRIAAN-PC Realm startup at 2021-03-10 14:03:40.057
+---------------------------------------------------------------
+14:03:40.057  ------------------------------------------------------
+14:03:40.057  2021-03-10 14:03:40
+14:03:40.057  Diablo II running under Windows XP (Version 5.010)
+14:03:40.057  Vendor:  Intel
+14:03:40.057  Version: Pentium III (no brand) (Type 0, Family 6, Model E, Stepping A, Brand 0)
+14:03:40.061  Speed: Approx. 2903 MHz
+14:03:40.061  Total Physical Memory: 1024.00MB
+14:03:40.061  Application Path: C:\Installed Games\Diablo II
+14:03:40.079  Local IP: 192.168.8.133
+14:03:40.079  Computer name: ADRIAAN-PC
+14:03:40.079  ------------------------------------------------------
+14:03:40.079  
+14:03:40.079  imagehlp.dll loaded for better stack crawls.
+14:03:43.295  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+14:03:43.310  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+14:03:46.563  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+14:03:47.944  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+14:13:03.384  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+---------------------------------------------------------------
+ADRIAAN-PC Realm startup at 2021-03-10 18:48:13.488
+---------------------------------------------------------------
+18:48:13.488  ------------------------------------------------------
+18:48:13.488  2021-03-10 18:48:13
+18:48:13.488  Diablo II running under Windows XP (Version 5.010)
+18:48:13.488  Vendor:  Intel
+18:48:13.488  Version: Pentium III (no brand) (Type 0, Family 6, Model E, Stepping A, Brand 0)
+18:48:13.498  Speed: Approx. 2904 MHz
+18:48:13.498  Total Physical Memory: 1024.00MB
+18:48:13.498  Application Path: C:\Installed Games\Diablo II
+18:48:13.510  Local IP: 192.168.8.133
+18:48:13.510  Computer name: ADRIAAN-PC
+18:48:13.510  ------------------------------------------------------
+18:48:13.510  
+18:48:13.510  imagehlp.dll loaded for better stack crawls.
+18:48:15.464  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+18:48:15.475  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+18:48:21.190  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+18:48:22.508  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+19:05:34.077  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+19:29:25.363  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+19:30:35.356  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+19:30:37.397  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+19:36:23.470  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+19:36:25.510  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+19:37:15.708  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+19:37:17.746  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)

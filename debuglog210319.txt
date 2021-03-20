@@ -1,0 +1,16 @@
+---------------------------------------------------------------
+ADRIAAN-PC Realm startup at 2021-03-19 12:33:29.671
+---------------------------------------------------------------
+12:33:29.671  ------------------------------------------------------
+12:33:29.671  2021-03-19 12:33:29
+12:33:29.671  Diablo II running under Windows XP (Version 5.010)
+12:33:29.671  Vendor:  Intel
+12:33:29.671  Version: Pentium III (no brand) (Type 0, Family 6, Model E, Stepping A, Brand 0)
+12:33:29.685  Speed: Approx. 2904 MHz
+12:33:29.685  Total Physical Memory: 1024.00MB
+12:33:29.685  Application Path: C:\Installed Games\Diablo II
+12:33:29.697  Local IP: 192.168.8.140
+12:33:29.697  Computer name: ADRIAAN-PC
+12:33:29.697  ------------------------------------------------------
+12:33:29.697  
+12:33:29.697  imagehlp.dll loaded for better stack crawls.

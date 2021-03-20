@@ -1,0 +1,40 @@
+---------------------------------------------------------------
+ADRIAAN-PC Realm startup at 2021-03-13 14:19:42.803
+---------------------------------------------------------------
+14:19:42.803  ------------------------------------------------------
+14:19:42.803  2021-03-13 14:19:42
+14:19:42.803  Diablo II running under Windows XP (Version 5.010)
+14:19:42.803  Vendor:  Intel
+14:19:42.803  Version: Pentium III (no brand) (Type 0, Family 6, Model E, Stepping A, Brand 0)
+14:19:42.816  Speed: Approx. 2904 MHz
+14:19:42.816  Total Physical Memory: 1024.00MB
+14:19:42.816  Application Path: C:\Installed Games\Diablo II
+14:19:42.826  Local IP: 192.168.8.134
+14:19:42.826  Computer name: ADRIAAN-PC
+14:19:42.826  ------------------------------------------------------
+14:19:42.826  
+14:19:42.826  imagehlp.dll loaded for better stack crawls.
+14:19:44.667  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+14:19:44.678  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+14:20:18.209  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+14:20:49.949  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+14:21:57.642  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+14:21:59.682  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+---------------------------------------------------------------
+ADRIAAN-PC Realm startup at 2021-03-13 17:12:30.151
+---------------------------------------------------------------
+17:12:30.151  ------------------------------------------------------
+17:12:30.151  2021-03-13 17:12:30
+17:12:30.151  Diablo II running under Windows XP (Version 5.010)
+17:12:30.151  Vendor:  Intel
+17:12:30.151  Version: Pentium III (no brand) (Type 0, Family 6, Model E, Stepping A, Brand 0)
+17:12:30.160  Speed: Approx. 2904 MHz
+17:12:30.160  Total Physical Memory: 1024.00MB
+17:12:30.160  Application Path: C:\Installed Games\Diablo II
+17:12:30.167  Local IP: 192.168.8.134
+17:12:30.167  Computer name: ADRIAAN-PC
+17:12:30.167  ------------------------------------------------------
+17:12:30.167  
+17:12:30.167  imagehlp.dll loaded for better stack crawls.
+17:12:31.844  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+17:12:31.857  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound

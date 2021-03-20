@@ -1,0 +1,21 @@
+---------------------------------------------------------------
+ADRIAAN-PC Realm startup at 2021-03-08 20:07:06.855
+---------------------------------------------------------------
+20:07:06.855  ------------------------------------------------------
+20:07:06.855  2021-03-08 20:07:06
+20:07:06.855  Diablo II running under Windows XP (Version 5.010)
+20:07:06.855  Vendor:  Intel
+20:07:06.855  Version: Pentium III (no brand) (Type 0, Family 6, Model E, Stepping A, Brand 0)
+20:07:06.858  Speed: Approx. 2904 MHz
+20:07:06.858  Total Physical Memory: 1024.00MB
+20:07:06.858  Application Path: C:\Installed Games\Diablo II
+20:07:06.869  Local IP: 192.168.8.132
+20:07:06.869  Computer name: ADRIAAN-PC
+20:07:06.869  ------------------------------------------------------
+20:07:06.869  
+20:07:06.869  imagehlp.dll loaded for better stack crawls.
+20:07:09.632  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+20:07:09.642  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+20:07:20.269  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+20:07:21.394  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+20:31:48.224  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)

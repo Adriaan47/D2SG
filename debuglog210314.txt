@@ -1,0 +1,82 @@
+---------------------------------------------------------------
+ADRIAAN-PC Realm startup at 2021-03-14 11:04:26.637
+---------------------------------------------------------------
+11:04:26.637  ------------------------------------------------------
+11:04:26.637  2021-03-14 11:04:26
+11:04:26.637  Diablo II running under Windows XP (Version 5.010)
+11:04:26.637  Vendor:  Intel
+11:04:26.637  Version: Pentium III (no brand) (Type 0, Family 6, Model E, Stepping A, Brand 0)
+11:04:26.643  Speed: Approx. 2904 MHz
+11:04:26.643  Total Physical Memory: 1024.00MB
+11:04:26.643  Application Path: C:\Installed Games\Diablo II
+11:04:26.655  Local IP: 192.168.8.136
+11:04:26.655  Computer name: ADRIAAN-PC
+11:04:26.655  ------------------------------------------------------
+11:04:26.655  
+11:04:26.655  imagehlp.dll loaded for better stack crawls.
+11:04:29.626  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+11:04:29.638  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+---------------------------------------------------------------
+ADRIAAN-PC Realm startup at 2021-03-14 11:04:53.190
+---------------------------------------------------------------
+11:04:53.190  ------------------------------------------------------
+11:04:53.190  2021-03-14 11:04:53
+11:04:53.190  Diablo II running under Windows XP (Version 5.010)
+11:04:53.190  Vendor:  Intel
+11:04:53.190  Version: Pentium III (no brand) (Type 0, Family 6, Model E, Stepping A, Brand 0)
+11:04:53.206  Speed: Approx. 2904 MHz
+11:04:53.206  Total Physical Memory: 1024.00MB
+11:04:53.206  Application Path: C:\Installed Games\Diablo II
+11:04:53.212  Local IP: 192.168.8.136
+11:04:53.212  Computer name: ADRIAAN-PC
+11:04:53.212  ------------------------------------------------------
+11:04:53.212  
+11:04:53.212  imagehlp.dll loaded for better stack crawls.
+---------------------------------------------------------------
+ADRIAAN-PC Realm startup at 2021-03-14 15:00:57.956
+---------------------------------------------------------------
+15:00:57.956  ------------------------------------------------------
+15:00:57.956  2021-03-14 15:00:57
+15:00:57.956  Diablo II running under Windows XP (Version 5.010)
+15:00:57.956  Vendor:  Intel
+15:00:57.956  Version: Pentium III (no brand) (Type 0, Family 6, Model E, Stepping A, Brand 0)
+15:00:57.972  Speed: Approx. 2904 MHz
+15:00:57.972  Total Physical Memory: 1024.00MB
+15:00:57.972  Application Path: C:\Installed Games\Diablo II
+15:00:57.978  Local IP: 192.168.8.136
+15:00:57.978  Computer name: ADRIAAN-PC
+15:00:57.978  ------------------------------------------------------
+15:00:57.978  
+15:00:57.978  imagehlp.dll loaded for better stack crawls.
+---------------------------------------------------------------
+ADRIAAN-PC Realm startup at 2021-03-14 19:31:35.637
+---------------------------------------------------------------
+19:31:35.637  ------------------------------------------------------
+19:31:35.637  2021-03-14 19:31:35
+19:31:35.637  Diablo II running under Windows XP (Version 5.010)
+19:31:35.637  Vendor:  Intel
+19:31:35.637  Version: Pentium III (no brand) (Type 0, Family 6, Model E, Stepping A, Brand 0)
+19:31:35.644  Speed: Approx. 2904 MHz
+19:31:35.644  Total Physical Memory: 1024.00MB
+19:31:35.644  Application Path: C:\Installed Games\Diablo II
+19:31:35.650  Local IP: 192.168.8.136
+19:31:35.650  Computer name: ADRIAAN-PC
+19:31:35.650  ------------------------------------------------------
+19:31:35.650  
+19:31:35.650  imagehlp.dll loaded for better stack crawls.
+---------------------------------------------------------------
+ADRIAAN-PC Realm startup at 2021-03-14 19:59:03.593
+---------------------------------------------------------------
+19:59:03.593  ------------------------------------------------------
+19:59:03.593  2021-03-14 19:59:03
+19:59:03.593  Diablo II running under Windows XP (Version 5.010)
+19:59:03.593  Vendor:  Intel
+19:59:03.593  Version: Pentium III (no brand) (Type 0, Family 6, Model E, Stepping A, Brand 0)
+19:59:03.596  Speed: Approx. 2904 MHz
+19:59:03.596  Total Physical Memory: 1024.00MB
+19:59:03.596  Application Path: C:\Installed Games\Diablo II
+19:59:03.602  Local IP: 192.168.8.136
+19:59:03.602  Computer name: ADRIAAN-PC
+19:59:03.602  ------------------------------------------------------
+19:59:03.602  
+19:59:03.602  imagehlp.dll loaded for better stack crawls.
