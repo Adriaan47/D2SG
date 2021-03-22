@@ -1,0 +1,18 @@
+---------------------------------------------------------------
+CH-PC Realm startup at 2021-03-22 10:49:27.222
+---------------------------------------------------------------
+10:49:27.222  ------------------------------------------------------
+10:49:27.222  2021-03-22 10:49:27
+10:49:27.222  Diablo II running under Windows XP (Version 5.010)
+10:49:27.222  Vendor:  Intel
+10:49:27.222  Version: Celeron (Type 0, Family 6, Model 6, Stepping 1, Brand 0)
+10:49:27.237  Speed: Approx. 1862 MHz
+10:49:27.237  Total Physical Memory: 1024.00MB
+10:49:27.237  Application Path: D:\Installed Games\Diablo II
+10:49:27.284  Local IP: 192.168.1.4
+10:49:27.284  Computer name: CH-PC
+10:49:27.284  ------------------------------------------------------
+10:49:27.284  
+10:49:27.284  imagehlp.dll loaded for better stack crawls.
+10:50:07.610  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+10:50:07.657  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
