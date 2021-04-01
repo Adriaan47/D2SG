@@ -1,0 +1,85 @@
+---------------------------------------------------------------
+ADRIAAN-PC Realm startup at 2021-03-27 21:15:46.988
+---------------------------------------------------------------
+21:15:46.988  ------------------------------------------------------
+21:15:46.988  2021-03-27 21:15:46
+21:15:46.988  Diablo II running under Windows XP (Version 5.010)
+21:15:46.988  Vendor:  Intel
+21:15:46.988  Version: Pentium III (no brand) (Type 0, Family 6, Model E, Stepping A, Brand 0)
+21:15:46.995  Speed: Approx. 2903 MHz
+21:15:46.995  Total Physical Memory: 1024.00MB
+21:15:46.995  Application Path: C:\Installed Games\Diablo II
+21:15:47.012  Local IP: 192.168.8.162
+21:15:47.012  Computer name: ADRIAAN-PC
+21:15:47.012  ------------------------------------------------------
+21:15:47.012  
+21:15:47.012  imagehlp.dll loaded for better stack crawls.
+21:15:50.150  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+21:15:50.180  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+21:15:54.920  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:15:56.564  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:17:17.679  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:17:19.313  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:17:21.953  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:17:32.844  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:17:34.378  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:17:36.450  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:17:54.237  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:17:55.580  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:17:57.653  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:18:21.121  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:18:22.392  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:18:24.984  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:19:15.848  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:19:17.999  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:20:44.686  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:20:46.456  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:21:55.625  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:21:59.447  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:22:15.756  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:22:17.097  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:22:18.559  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:25:21.953  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:25:25.201  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:26:36.695  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:26:38.826  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:29:11.783  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:29:13.013  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:29:34.602  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:29:36.393  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:31:02.297  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:31:03.623  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:31:09.622  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:32:50.727  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:32:52.015  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:32:55.342  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:33:55.344  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:33:59.974  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:35:17.085  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:35:18.294  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:35:20.308  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:35:24.259  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:35:27.059  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:35:41.006  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+---------------------------------------------------------------
+ADRIAAN-PC Realm startup at 2021-03-27 21:39:27.671
+---------------------------------------------------------------
+21:39:27.671  ------------------------------------------------------
+21:39:27.671  2021-03-27 21:39:27
+21:39:27.672  Diablo II running under Windows XP (Version 5.010)
+21:39:27.672  Vendor:  Intel
+21:39:27.672  Version: Pentium III (no brand) (Type 0, Family 6, Model E, Stepping A, Brand 0)
+21:39:27.682  Speed: Approx. 2904 MHz
+21:39:27.682  Total Physical Memory: 1024.00MB
+21:39:27.682  Application Path: C:\Installed Games\Diablo II
+21:39:27.688  Local IP: 192.168.8.162
+21:39:27.688  Computer name: ADRIAAN-PC
+21:39:27.688  ------------------------------------------------------
+21:39:27.688  
+21:39:27.688  imagehlp.dll loaded for better stack crawls.
+21:39:30.272  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+21:39:30.305  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+21:39:33.122  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:39:33.917  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:46:18.948  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
+21:46:20.340  ***** DirectDraw error: SetEntries failed! - DDERR_GENERIC (0x80004005)
